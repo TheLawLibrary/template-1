@@ -1,1 +1,2 @@
-# template-1
+# templates
+Template repo
